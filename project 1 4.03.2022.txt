@@ -1,0 +1,14 @@
+﻿M1=divident M2=divisor  M3=0 M4=1/0 M5=1 
+
+
+1. read/Write(M1,R1)                
+2. read/write(M2,R2)                
+3. Read/Write(M3,R3)           
+4. Read/Write(M4,R4)           
+5. Read/Write(M5,R5)                
+6. Substract(R1,R2,R1)        
+7. Add(R3,R5,R3)                
+8. >(R1,R2,R4)                        
+9. ifJump(R4,L6)                        
+10. Read/Write(R1,R2)                
+11. Read/Write(R3,R1)                
