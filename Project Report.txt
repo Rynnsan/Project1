@@ -1,0 +1,9 @@
+Project Report
+
+In this project, we get the remainder by subtracting the divisor from the dividing number. 
+The number of ifJump loops give us the quotient. While doing this, we used 5 memory addresses. 
+We used M1 and M2 to store dividend and divisor. M3 increased by 1 for each ifJump loop, giving
+us the quotient. We used M5 to do the increment by 1. M4 is for determining the state of the 
+ifJump loop. In the first five lines, we have assigned the memories to the registers in order
+to do the operations.
+
